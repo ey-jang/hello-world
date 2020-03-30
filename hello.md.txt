@@ -1,0 +1,8 @@
+# hello git
+
+## git 명령어 요약
+
+clone : github을 내 컴퓨터에 복사한다.
+add : 내 컴퓨터에서 작업한 파일들을 스테이지에 추가
+commit : 스테이지에 올라온 파일을 가지고 내 컴퓨터에 저장
+push : 커밋들을 github에 업로드
